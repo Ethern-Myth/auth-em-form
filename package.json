@@ -9,9 +9,6 @@
 	"version": "1.0.1",
 	"description": "auth-em-form is a versatile React component for user authentication, supporting sign-in, sign-up, validation, encryption, and social login integration",
 	"main": "index.ts",
-	"bin": {
-		"auth-em-form-cli": "bin/cli.mjs"
-	},
 	"scripts": {
 		"dev": "vite",
 		"build": "rimraf dist && tsup",
