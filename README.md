@@ -132,6 +132,8 @@ auth-em-form-cli --help
 
 # Auth-Em-Form
 
+![Preview](/assets/screenshots/preview.png)
+
 ## Overview
 
 The `AuthForm` component is a versatile and reusable React component with support for other frameworks designed to streamline the implementation of authentication forms within web applications. It provides a robust foundation for both sign-in and sign-up actions, offering customization options for form fields, validation, and integration with social login providers.
