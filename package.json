@@ -10,11 +10,7 @@
 	"description": "auth-em-form is a versatile React component for user authentication, supporting sign-in, sign-up, validation, encryption, and social login integration",
 	"main": "index.ts",
 	"scripts": {
-		"dev": "vite",
-		"build": "rimraf dist && tsup",
-		"test": "jest",
-		"test:pr": "pnpm exec playwright test authForm.spec.ts",
-		"test:ui": " pnpm exec playwright test --ui"
+		"build": "rimraf dist && tsup"
 	},
 	"repository": {
 		"type": "git",
