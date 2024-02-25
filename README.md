@@ -1,5 +1,7 @@
 # Auth Form
 
+[![npm downloads](https://img.shields.io/npm/dm/auth-em-form)](https://www.npmjs.com/package/auth-em-form)
+
 <div align="center">
 
 ![Logo](/assets/logo/AuthForm.png)
